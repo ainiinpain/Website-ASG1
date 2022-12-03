@@ -44,3 +44,9 @@
 .navigation{
     text-align: left;
 }
+.locator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
