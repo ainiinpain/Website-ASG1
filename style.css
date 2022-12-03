@@ -44,9 +44,11 @@
 .navigation{
     text-align: left;
 }
-.locator{
-    display: flex;
+.locationname{
+    display: inline-flex;
     justify-content: center;
     align-items: center;
     height: 150px;
+    justify-content: space-around;
+    flex-direction: row;
 }
