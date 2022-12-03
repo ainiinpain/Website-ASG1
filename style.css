@@ -4,7 +4,7 @@
     background-image: url(wp-tenants-008.png);
     background-attachment: auto;
     background-size: 100%;
-    padding:220px 0;
+    padding:200px 0;
 
 }
 
@@ -30,4 +30,12 @@
     text-align: center;
     background-color:#7a7a78;
     padding: 25px 0px 25px 0;
+}
+
+.heading{
+    text-align: center;
+}
+
+.navigation{
+    text-align: left;
 }
