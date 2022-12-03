@@ -44,11 +44,20 @@
 .navigation{
     text-align: left;
 }
-.locationname{
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    height: 150px;
-    justify-content: space-around;
+
+.name{
+    display:flex;
+    text-align: center;
     flex-direction: row;
+    text-align: center;
+    justify-content:space-evenly ;
 }
+
+.locationname{
+
+    text-align: center;
+    flex-direction: column;
+
+
+}
+
