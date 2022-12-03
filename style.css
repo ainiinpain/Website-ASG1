@@ -49,15 +49,23 @@
     display:flex;
     text-align: center;
     flex-direction: row;
-    text-align: center;
     justify-content:space-evenly ;
 }
 
 .locationname{
-
+    
+    justify-content: center;
     text-align: center;
     flex-direction: column;
 
 
 }
 
+.picbackground
+{
+
+    background-image: url(wp-tenants-008.png);
+    background-attachment: auto;
+    background-size: 100%;
+
+}
