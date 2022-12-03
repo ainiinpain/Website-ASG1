@@ -12,6 +12,7 @@
 .Ebooking {
     text-align: center;
     width:450px;
+    background-color: #7a7a78;
     
 }
 
@@ -23,6 +24,10 @@
 .container1{
 
     display:flex;
+    background-image: url(wp-tenants-008.png);
+    background-attachment: auto;
+    background-size: 100%;
+    padding: 200px 0;
 
     
 }
