@@ -13,12 +13,14 @@
     text-align: center;
     width:450px;
     background-color: #7a7a78;
+    justify-content: space-evenly;
     
 }
 
 .RepairStatus{
     text-align:center;
-    width:450;
+    width:450px;
+    background-color: #7a7a78;
 }
 
 .container1{
@@ -28,6 +30,7 @@
     background-attachment: auto;
     background-size: 100%;
     padding: 200px 0;
+    justify-content: space-evenly;
 
     
 }
@@ -64,6 +67,7 @@
 .picbackground
 {
 
+    display:grid;
     background-image: url(wp-tenants-008.png);
     background-attachment: auto;
     background-size: 100%;
