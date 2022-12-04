@@ -1,11 +1,16 @@
 .About
 {
     text-align: center;
-    background-image: url(wp-tenants-008.png);
-    background-attachment: auto;
-    background-size: 100%;
-    padding:200px 0;
+    align-items: center;
+    justify-content: space-evenly ;
 
+}
+
+.picture{
+    display:flex;
+    background-image: url(wp-tenants-008.png);
+    background-size: 100%;
+    padding:150px 0;
 }
 
 
@@ -66,8 +71,7 @@
 
 .picbackground
 {
-
-    display:grid;
+    padding: 150px 0;
     background-image: url(wp-tenants-008.png);
     background-attachment: auto;
     background-size: 100%;
